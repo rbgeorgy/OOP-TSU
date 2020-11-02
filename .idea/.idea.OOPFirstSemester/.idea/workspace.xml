@@ -21,7 +21,6 @@
         <option value="$PROJECT_DIR$/OOPFirstSemester/DuckArrayFromArray.cs" />
         <option value="$PROJECT_DIR$/OOPFirstSemester/BirdForSale.cs" />
         <option value="$PROJECT_DIR$/OOPFirstSemester/DuckStorage.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/Program.cs" />
         <option value="$PROJECT_DIR$/OOPFirstSemester/AdapterTurkeyCock.cs" />
         <option value="$PROJECT_DIR$/OOPFirstSemester/CluckClass.cs" />
         <option value="$PROJECT_DIR$/OOPFirstSemester/CommonDuck.cs" />
@@ -43,6 +42,7 @@
         <option value="$PROJECT_DIR$/OOPFirstSemester/SwimClass.cs" />
         <option value="$PROJECT_DIR$/OOPFirstSemester/WalkClass.cs" />
         <option value="$PROJECT_DIR$/OOPFirstSemester/WoodDuck.cs" />
+        <option value="$PROJECT_DIR$/OOPFirstSemester/Program.cs" />
       </list>
     </option>
   </component>
@@ -84,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604311947966</updated>
-      <workItem from="1604311953013" duration="2176000" />
+      <workItem from="1604311953013" duration="2921000" />
     </task>
     <servers />
   </component>
@@ -97,6 +97,22 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1878" height="152" key="GridCell.Tab.0.bottom" timestamp="1604314152053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="152" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604314152053" />
+    <state width="1878" height="152" key="GridCell.Tab.0.center" timestamp="1604314152053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="152" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604314152053" />
+    <state width="1878" height="152" key="GridCell.Tab.0.left" timestamp="1604314152052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="152" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604314152052" />
+    <state width="1878" height="152" key="GridCell.Tab.0.right" timestamp="1604314152053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="152" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604314152053" />
     <state x="555" y="254" width="800" height="524" key="Rider.ProjectTemplateDialog.Size" timestamp="1604311947216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

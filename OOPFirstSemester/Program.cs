@@ -30,13 +30,13 @@ namespace OOPFirstSemester
             transGenderDuck.ShowInfo();
 
 
-            Console.WriteLine("Èç ìàññèâà:");
+            Console.WriteLine("Из массива:");
             Duck[] arr = { woodDuck2, rubberDuck2, transGenderDuck };
             DuckArrayFromArray duckarray = new DuckArrayFromArray(arr);
             duckarray.PrintAll();
 
 
-            Console.WriteLine("Èç ëèñòà:");
+            Console.WriteLine("Из листа:");
 
             List<Duck> list = new List<Duck>();
             list.Add(woodDuck2);
