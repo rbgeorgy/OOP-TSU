@@ -50,7 +50,7 @@ namespace OOPFirstSemester
             _swim = s;
         }
 
-        public Duck()
+        protected  Duck()
         {
             _fly = new FlyClass();
             _quack = new QuackClass();

@@ -11,7 +11,7 @@ namespace OOPFirstSemester
 
         public override void ShowInfo()
         {
-            Console.WriteLine("Издаю писк");
+            Console.WriteLine("Резиновая утка");
             base.ShowInfo();
         }
     }

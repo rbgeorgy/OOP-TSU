@@ -4,54 +4,54 @@
     <projectFile>OOPFirstSemester/OOPFirstSemester.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14021c21-82e5-4d5a-b288-e1680ade859d" name="Default Changelist" comment="" />
+    <list default="true" id="14021c21-82e5-4d5a-b288-e1680ade859d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OOPFirstSemester/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOPFirstSemester/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OOPFirstSemester/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOPFirstSemester/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OOPFirstSemester/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOPFirstSemester/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/Duck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/Duck.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/DuckArrayBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/DuckArrayBase.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/IMyEnumerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/IMyEnumerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/RubberDuck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/RubberDuck.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/OOPFirstSemester.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/OOPFirstSemester.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/OOPFirstSemester.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/OOPFirstSemester.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/OOPFirstSemester/TurkeyCock.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/Class.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/Duck.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/IMyEnumerator.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/DuckArrayFromList.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/DuckArrayFromArray.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/BirdForSale.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/DuckStorage.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/AdapterTurkeyCock.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/CluckClass.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/CommonDuck.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/CommonTurkeyCock.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/DontFlyClass.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/DontQuackClass.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/DontSwimClass.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/DontWalkClass.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/DuckArrayBase.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/FlyClass.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/FriedBird.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/LittleDuck.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/PeepQuackClass.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/PluckedBird.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/QuackClass.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/RubberDuck.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/StandardBirdForSale.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/StuffedBird.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/SwimClass.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/WalkClass.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/WoodDuck.cs" />
-        <option value="$PROJECT_DIR$/OOPFirstSemester/Program.cs" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/OOPFirstSemester/IMyEnumerator.cs" />
+      <option value="$PROJECT_DIR$/OOPFirstSemester/DuckArrayBase.cs" />
+      <option value="$PROJECT_DIR$/OOPFirstSemester/Duck.cs" />
+      <option value="$PROJECT_DIR$/OOPFirstSemester/RubberDuck.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1jjKE7sZLkYCVqybmU5zVS3en2b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -85,37 +85,16 @@
       <option name="presentableId" value="Default" />
       <updated>1604311947966</updated>
       <workItem from="1604311953013" duration="2921000" />
+      <workItem from="1608740273398" duration="862000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1878" height="152" key="GridCell.Tab.0.bottom" timestamp="1604314152053">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1878" height="152" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604314152053" />
-    <state width="1878" height="152" key="GridCell.Tab.0.center" timestamp="1604314152053">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1878" height="152" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604314152053" />
-    <state width="1878" height="152" key="GridCell.Tab.0.left" timestamp="1604314152052">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1878" height="152" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604314152052" />
-    <state width="1878" height="152" key="GridCell.Tab.0.right" timestamp="1604314152053">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1878" height="152" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604314152053" />
-    <state x="555" y="254" width="800" height="524" key="Rider.ProjectTemplateDialog.Size" timestamp="1604311947216">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="555" y="254" width="800" height="524" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1604311947216" />
   </component>
 </project>

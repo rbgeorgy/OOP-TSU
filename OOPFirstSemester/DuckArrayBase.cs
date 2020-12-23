@@ -9,10 +9,10 @@ namespace OOPFirstSemester
         protected List<Duck> _array;
         protected int _current;
 
-        public Duck Current(int i)
-        {
-            return _array[i];
-        }
+        // public Duck Current(int i)
+        // {
+        //     return _array[i];
+        // }
 
         public Duck Current()
         {
@@ -42,12 +42,6 @@ namespace OOPFirstSemester
         {
             Console.WriteLine("Текущая утка:");
             _array[_current].ShowInfo();
-        }
-
-
-        IEnumerator IEnumerable.GetEnumerator()
-        {
-            throw new NotImplementedException();
         }
 
     }

@@ -3,10 +3,9 @@ using System.Collections.Generic;
 
 namespace OOPFirstSemester
 {
-    interface IMyEnumerator<T> : IEnumerable<T>
+    interface IMyEnumerator<T>
     {
-
-        T Current(int i);
+        T Current();
         void Next();
 
     }

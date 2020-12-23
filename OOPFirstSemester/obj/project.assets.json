@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/georgiy/RiderProjects/OOPFirstSemester/OOPFirstSemester/OOPFirstSemester.csproj",
+      "projectUniqueName": "/home/georgiy/OOP-TSU/OOPFirstSemester/OOPFirstSemester.csproj",
       "projectName": "OOPFirstSemester",
-      "projectPath": "/home/georgiy/RiderProjects/OOPFirstSemester/OOPFirstSemester/OOPFirstSemester.csproj",
+      "projectPath": "/home/georgiy/OOP-TSU/OOPFirstSemester/OOPFirstSemester.csproj",
       "packagesPath": "/home/georgiy/.nuget/packages/",
-      "outputPath": "/home/georgiy/RiderProjects/OOPFirstSemester/OOPFirstSemester/obj/",
+      "outputPath": "/home/georgiy/OOP-TSU/OOPFirstSemester/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/georgiy/.nuget/NuGet/NuGet.Config"
@@ -56,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
       }
     }
   }

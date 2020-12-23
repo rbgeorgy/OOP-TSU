@@ -11,3 +11,16 @@
 /home/georgiy/RiderProjects/OOPFirstSemester/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.dll
 /home/georgiy/RiderProjects/OOPFirstSemester/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.pdb
 /home/georgiy/RiderProjects/OOPFirstSemester/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.genruntimeconfig.cache
+/home/georgiy/OOP-TSU/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester
+/home/georgiy/OOP-TSU/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester.deps.json
+/home/georgiy/OOP-TSU/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester.runtimeconfig.json
+/home/georgiy/OOP-TSU/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester.runtimeconfig.dev.json
+/home/georgiy/OOP-TSU/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester.dll
+/home/georgiy/OOP-TSU/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester.pdb
+/home/georgiy/OOP-TSU/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.csprojAssemblyReference.cache
+/home/georgiy/OOP-TSU/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.AssemblyInfoInputs.cache
+/home/georgiy/OOP-TSU/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.AssemblyInfo.cs
+/home/georgiy/OOP-TSU/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.csproj.CoreCompileInputs.cache
+/home/georgiy/OOP-TSU/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.dll
+/home/georgiy/OOP-TSU/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.pdb
+/home/georgiy/OOP-TSU/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.genruntimeconfig.cache
