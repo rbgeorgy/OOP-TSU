@@ -8,12 +8,7 @@ namespace OOPFirstSemester
 
         protected List<Duck> _array;
         protected int _current;
-
-        // public Duck Current(int i)
-        // {
-        //     return _array[i];
-        // }
-
+        
         public Duck Current()
         {
             return _array[_current];

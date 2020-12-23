@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14021c21-82e5-4d5a-b288-e1680ade859d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OOPFirstSemester/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOPFirstSemester/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OOPFirstSemester/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOPFirstSemester/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OOPFirstSemester/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOPFirstSemester/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/Duck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/Duck.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOPFirstSemester/DuckArrayBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/DuckArrayBase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/IMyEnumerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/IMyEnumerator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/RubberDuck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/RubberDuck.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/bin/Debug/netcoreapp3.1/OOPFirstSemester.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/Debug/netcoreapp3.1/OOPFirstSemester.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/OOPFirstSemester.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/OOPFirstSemester.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/OOPFirstSemester.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/OOPFirstSemester.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFirstSemester/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +18,9 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/OOPFirstSemester/IMyEnumerator.cs" />
-      <option value="$PROJECT_DIR$/OOPFirstSemester/DuckArrayBase.cs" />
       <option value="$PROJECT_DIR$/OOPFirstSemester/Duck.cs" />
       <option value="$PROJECT_DIR$/OOPFirstSemester/RubberDuck.cs" />
+      <option value="$PROJECT_DIR$/OOPFirstSemester/DuckArrayBase.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1jjKE7sZLkYCVqybmU5zVS3en2b" />
@@ -54,6 +33,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -85,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604311947966</updated>
       <workItem from="1604311953013" duration="2921000" />
-      <workItem from="1608740273398" duration="862000" />
+      <workItem from="1608740273398" duration="1186000" />
     </task>
     <servers />
   </component>
