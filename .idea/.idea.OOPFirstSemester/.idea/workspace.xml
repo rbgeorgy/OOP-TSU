@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14021c21-82e5-4d5a-b288-e1680ade859d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OOPFirstSemester/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOPFirstSemester/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOPFirstSemester/DuckArrayBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFirstSemester/DuckArrayBase.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/rbgeorgy/OOP-TSU" />
+      </set>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/OOPFirstSemester/IMyEnumerator.cs" />
-      <option value="$PROJECT_DIR$/OOPFirstSemester/Duck.cs" />
       <option value="$PROJECT_DIR$/OOPFirstSemester/RubberDuck.cs" />
+      <option value="$PROJECT_DIR$/OOPFirstSemester/Duck.cs" />
       <option value="$PROJECT_DIR$/OOPFirstSemester/DuckArrayBase.cs" />
     </changedPaths>
   </component>
@@ -65,7 +73,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604311947966</updated>
       <workItem from="1604311953013" duration="2921000" />
-      <workItem from="1608740273398" duration="1186000" />
+      <workItem from="1608740273398" duration="1830000" />
+      <workItem from="1608749333197" duration="1713000" />
     </task>
     <servers />
   </component>

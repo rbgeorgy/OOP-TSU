@@ -14,11 +14,6 @@ namespace OOPFirstSemester
             return _array[_current];
         }
 
-        public IEnumerator<Duck> GetEnumerator()
-        {
-            throw new NotImplementedException();
-        }
-
         public void Next()
         {
             _current++;
